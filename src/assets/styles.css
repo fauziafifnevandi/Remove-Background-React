@@ -1,0 +1,221 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat&display=swap");
+/* ----------------- */
+/* --- Mobile CSS ---*/
+/* ----------------- */
+
+/* Navbar */
+.nav-mobile-centered {
+  display: flex;
+  align-items: center;
+}
+
+/* Hero */
+.container-hero-mobile {
+  margin-top: 5rem;
+}
+
+.container-hero-mobile .row-two-text-one {
+  display: flex;
+  align-items: center;
+  text-align: center;
+  font-weight: bolder;
+  font-size: 30px;
+  margin-top: 20px;
+}
+
+.container-hero-mobile .row-two-text-two {
+  font-size: 18px;
+}
+
+.container-hero-mobile .row-two-text-two span {
+  color: blue;
+}
+
+.banner-image-mobile {
+  height: 250px;
+}
+
+.row-two-image-mobile {
+  height: 35px;
+}
+
+.container-hero-mobile .row-two-text-three {
+  font-size: 12px;
+}
+
+.container-hero-mobile .row-two-text-four {
+  font-size: 0.6rem;
+  color: #777;
+}
+
+/* Support */
+.support-container {
+  margin-top: 65px;
+  margin-bottom: 65px;
+}
+
+.support-container img {
+  filter: grayscale();
+  height: 20px;
+  -webkit-filter: grayscale();
+}
+
+/* Nav Item */
+
+.nav-tab-mobile {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 12px;
+}
+
+.nav-tab-mobile ul {
+  list-style: none;
+  justify-content: space-between;
+}
+
+.nav-tab-mobile ul li {
+  display: inline-block;
+  padding: 0px 2px;
+}
+
+.nav-tab-mobile ul li button {
+  text-decoration: none;
+  font-weight: bold;
+  color: #666;
+  border-left: none;
+  border-right: none;
+  border-top: none;
+  border-bottom: none;
+}
+
+.nav-tab-mobile ul li button:hover {
+  color: rgb(0, 174, 255);
+}
+.nav-tab-mobile ul li .active {
+  color: rgb(0, 110, 255);
+  border-bottom: 4px solid blue;
+}
+
+.nav-tab-mobile ul li .active:hover {
+  color: rgb(0, 174, 255);
+  border-bottom: 4px solid rgb(0, 174, 255);
+}
+
+/* ------------------ */
+/* --- Desktop CSS ---*/
+/* ------------------ */
+
+/* Hero */
+.container-hero {
+  margin-top: 10rem;
+}
+
+.container-hero .row-two-image {
+  height: 35px;
+}
+
+.container-hero .row-two-text-one {
+  display: flex;
+  align-items: center;
+  text-align: center;
+  font-weight: bolder;
+  font-size: 50px;
+  margin-top: 20px;
+}
+
+.container-hero .row-two-text-two {
+  font-size: 22px;
+}
+
+.container-hero .row-two-text-two span {
+  color: blue;
+}
+
+.container-hero .row-two-text-three {
+  font-size: 12px;
+}
+
+.container-hero .row-two-text-four {
+  font-size: 0.6rem;
+  color: #777;
+}
+
+/* Support */
+.support-container-d {
+  padding: 30px;
+  border-top: 1px solid #e3e3e3;
+  border-bottom: 1px solid #e3e3e3;
+  margin-top: 80px;
+  margin-bottom: 80px;
+}
+
+.support-container-d img {
+  filter: grayscale();
+  height: 35px;
+  -webkit-filter: grayscale();
+}
+
+/* Nav Item */
+
+.nav-tab {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.nav-tab ul {
+  list-style: none;
+  justify-content: space-between;
+}
+
+.nav-tab ul li {
+  display: inline-block;
+  padding: 0px 20px;
+}
+
+.nav-tab ul li button {
+  text-decoration: none;
+  font-weight: bold;
+  color: #666;
+  border-left: none;
+  border-right: none;
+  border-top: none;
+  border-bottom: none;
+}
+
+.nav-tab ul li button:hover {
+  color: rgb(0, 174, 255);
+}
+.nav-tab ul li .active {
+  color: rgb(0, 110, 255);
+  border-bottom: 4px solid blue;
+}
+
+.nav-tab ul li .active:hover {
+  color: rgb(0, 174, 255);
+  border-bottom: 4px solid rgb(0, 174, 255);
+}
+
+/* slider image */
+
+/* footbar */
+.footbar li {
+  list-style: none;
+}
+
+.footbar li a {
+  text-decoration: none;
+}
+
+input[type="file"] {
+  display: none;
+}
+
+.custom-file-upload {
+  border: 1px solid #ccc;
+  display: inline-block;
+  padding: 6px 12px;
+  cursor: pointer;
+  background-color: aqua;
+}
