@@ -3,7 +3,7 @@ import { Button, Container, Nav, Navbar } from "react-bootstrap";
 
 function NavbarDesktop() {
   return (
-    <Navbar fixed="top" className="shadow" bg="light" expand="lg">
+    <Navbar fixed="top" className="border-bottom" bg="light" expand="lg">
       <Container fluid className="ms-4 me-4">
         <Navbar.Brand href="/">
           <img

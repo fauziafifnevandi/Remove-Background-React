@@ -9,7 +9,7 @@ const SupportDesktop = () => {
           <div class="col" style={{ marginRight: "105px" }}>
             <img
               className="microsoft-desktop"
-              src="https://www.slazzer.com/static/images/home-page/microsoft.svg"
+              src="https://logos-download.com/wp-content/uploads/2016/09/React_logo_wordmark.png"
               alt="Microsoft"
             ></img>
           </div>
@@ -19,14 +19,14 @@ const SupportDesktop = () => {
           >
             <img
               className="scandi-desktop"
-              src="https://www.slazzer.com/static/images/home-page/scandi-system.png"
+              src="https://logos-world.net/wp-content/uploads/2020/11/GitHub-Emblem.png"
               alt="Microsoft"
             ></img>
           </div>
           <div class="col " style={{ marginLeft: "105px" }}>
             <img
               className="visme-desktop"
-              src="https://www.slazzer.com/static/images/home-page/visme.svg"
+              src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Heroku_logo.svg/2560px-Heroku_logo.svg.png"
               alt="Microsoft"
             ></img>
           </div>
