@@ -21,10 +21,26 @@ function NavbarMobile() {
             style={{ height: "180px" }}
             navbarScroll
           >
-            <Nav.Link href="#action1">How it Works</Nav.Link>
-            <Nav.Link href="#action1">Tools & Api</Nav.Link>
-            <Button>Remove Background</Button>
-            <Button className="mt-2" variant="outline-secondary">
+            <Nav.Link
+              target="_blank"
+              href="https://github.com/fauziafifnevandi/remove-bg"
+            >
+              How it Works
+            </Nav.Link>
+            <Nav.Link
+              target="_blank"
+              href="https://github.com/fauziafifnevandi/remove-bg"
+            >
+              Tools & Api
+            </Nav.Link>
+            <Button href="/workspace">Remove Background</Button>
+            <Button
+              onClick={() => {
+                alert("features are coming soon");
+              }}
+              className="mt-2"
+              variant="outline-secondary"
+            >
               Log in
             </Button>
           </Nav>

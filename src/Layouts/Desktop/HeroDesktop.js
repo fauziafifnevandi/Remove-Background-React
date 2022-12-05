@@ -7,7 +7,10 @@ const HeroDesktop = () => {
     <div class="container-hero">
       <Row>
         <Col>
-          <Image src="https://www.slazzer.com/static/images/home-page/banner-orignal-image.jpg"></Image>
+          <Image
+            style={{ maxHeight: "50vh", maxWidth: "100%" }}
+            src="https://www.slazzer.com/static/images/home-page/home_banner.jpg"
+          ></Image>
         </Col>
         <Col>
           <div className="d-flex justify-content-center">

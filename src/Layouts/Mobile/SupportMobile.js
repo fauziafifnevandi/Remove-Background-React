@@ -9,21 +9,21 @@ function SupportMobile() {
           <div class="col">
             <img
               className="microsoft"
-              src="https://www.slazzer.com/static/images/home-page/microsoft.svg"
+              src="https://logos-download.com/wp-content/uploads/2016/09/React_logo_wordmark.png"
               alt="Microsoft"
             ></img>
           </div>
           <div class="col">
             <img
               className="scandi"
-              src="https://www.slazzer.com/static/images/home-page/scandi-system.png"
+              src="https://logos-world.net/wp-content/uploads/2020/11/GitHub-Emblem.png"
               alt="Microsoft"
             ></img>
           </div>
           <div class="col">
             <img
               className="visme"
-              src="https://www.slazzer.com/static/images/home-page/visme.svg"
+              src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Heroku_logo.svg/2560px-Heroku_logo.svg.png"
               alt="Microsoft"
             ></img>
           </div>

@@ -29,7 +29,7 @@ function HeroMobile() {
         <div className="d-flex justify-content-center mt-2">
           <Image
             className="banner-image-mobile"
-            src="https://www.slazzer.com/static/images/home-page/banner-orignal-image.jpg"
+            src="https://www.slazzer.com/static/images/home-page/home_banner.jpg"
           ></Image>
         </div>
         <div className="d-flex justify-content-center mt-4">

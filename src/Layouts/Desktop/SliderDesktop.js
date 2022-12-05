@@ -177,7 +177,11 @@ function SliderDesktop() {
           <Col sm={5}>
             <div style={{ border: "3px dashed #36b3ff", borderRadius: "10px" }}>
               <div className="d-flex justify-content-center">
-                <Button className="px-5 py-3 mt-5 mb-5" size="lg">
+                <Button
+                  href="/workspace"
+                  className="px-5 py-3 mt-5 mb-5"
+                  size="lg"
+                >
                   <FaRegImage fontSize={40}></FaRegImage>{" "}
                   <span className="ms-2" style={{ fontWeight: "bold" }}>
                     Upload Image

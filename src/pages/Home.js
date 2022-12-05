@@ -38,7 +38,7 @@ function Home() {
           <SliderDesktop></SliderDesktop>
         </Container>
       </Desktop>
-      <Tablet>Tablet</Tablet>
+      <Tablet>Cooming Soon!</Tablet>
       <Mobile>
         <NavbarMobile></NavbarMobile>
         <HeroMobile></HeroMobile>

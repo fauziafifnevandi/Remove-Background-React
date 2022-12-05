@@ -21,13 +21,30 @@ function NavbarDesktop() {
             style={{ maxHeight: "100px" }}
             navbarScroll
           >
-            <Nav.Link href="#action1">How it Works</Nav.Link>
-            <Nav.Link href="#action1">Tools & Api</Nav.Link>
+            <Nav.Link
+              target="_blank"
+              href="https://github.com/fauziafifnevandi/remove-bg"
+            >
+              How it Works
+            </Nav.Link>
+            <Nav.Link
+              target="_blank"
+              href="https://github.com/fauziafifnevandi/remove-bg"
+            >
+              Tools & Api
+            </Nav.Link>
           </Nav>
           <Button href="/workspace" className="me-3">
             Remove Background
           </Button>
-          <Button variant="outline-secondary">Log in</Button>
+          <Button
+            onClick={() => {
+              alert("features are coming soon");
+            }}
+            variant="outline-secondary"
+          >
+            Log in
+          </Button>
         </Navbar.Collapse>
       </Container>
     </Navbar>
