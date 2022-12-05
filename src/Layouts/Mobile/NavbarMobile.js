@@ -5,7 +5,7 @@ function NavbarMobile() {
   return (
     <Navbar fixed="top" className="shadow hehe" bg="light" expand="lg">
       <Container fluid className="ms-1 me-1">
-        <Navbar.Brand href="#">
+        <Navbar.Brand href="/">
           <img
             src="/remove-bg.png"
             width="30"

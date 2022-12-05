@@ -27,7 +27,7 @@ function BoardWorkspaceMobile() {
     setisProcess("proccess");
     try {
       await axios
-        .post("http://127.0.0.1:5001/v1/remove-bg", formData, {
+        .post("http://192.168.1.7:5001/v1/remove-bg", formData, {
           headers: {
             "Content-Type": "application/json",
           },

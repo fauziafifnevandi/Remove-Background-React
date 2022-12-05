@@ -33,7 +33,7 @@ function HeroMobile() {
           ></Image>
         </div>
         <div className="d-flex justify-content-center mt-4">
-          <Button className="px-4 py-2 mb-1" size="lg">
+          <Button href="/workspace" className="px-4 py-2 mb-1" size="lg">
             <FaRegImage></FaRegImage> Upload Image
           </Button>
         </div>
