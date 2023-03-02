@@ -3,6 +3,10 @@
 
 # Proccess
 ![Alt Text](https://media0.giphy.com/media/mdejAw9IXC1RCgjxhD/giphy.gif)
+
+# Mainpage
+![remove-bg](https://user-images.githubusercontent.com/40476170/222446630-909b6a35-e7d0-4ba0-b1e0-5bb8b6478bb6.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
