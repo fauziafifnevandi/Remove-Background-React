@@ -1,3 +1,7 @@
+# Main Menu
+
+# Proccess
+![Alt Text](https://media0.giphy.com/media/mdejAw9IXC1RCgjxhD/giphy.gif)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
